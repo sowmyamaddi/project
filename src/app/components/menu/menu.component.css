@@ -1,0 +1,7 @@
+.menu-category {
+    margin-bottom: 40px;
+}
+.card-img-top {
+    height: 200px; /* Adjust the height as needed */
+    object-fit: cover;
+}

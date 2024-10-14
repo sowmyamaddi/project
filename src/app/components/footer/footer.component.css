@@ -1,0 +1,12 @@
+
+
+
+.fixed-img {
+    position: fixed; /* Fix the position */
+    top: 80px; /* Adjust this based on your navbar height */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center the image */
+    width: 150px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+    z-index: 1000; /* Ensure it stays above other content */
+}

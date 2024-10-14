@@ -1,0 +1,19 @@
+.rest-img {
+    position: fixed;
+    top: 20px;
+    left: 30%;
+    transform: translateX(-50%);
+    width: 150px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    z-index: 1000;
+    max-width: 100%; /* Responsive design */
+}
+
+app-navbar {
+    margin-bottom: 20px; /* Space between navbar and image */
+}
+
+
+.logo-img {
+    margin-top: 100px; /* Adjust this value based on your navbar height */
+}
